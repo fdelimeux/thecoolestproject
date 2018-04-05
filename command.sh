@@ -1,4 +1,4 @@
 ls -l
-ifconfig2
+ifconfig
 pwd
 cd ..
