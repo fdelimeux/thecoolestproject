@@ -1,3 +1,3 @@
-pwd
-ls
+ls -l
 ifconfig
+pwd
